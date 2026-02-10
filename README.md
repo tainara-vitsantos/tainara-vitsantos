@@ -2,9 +2,8 @@
 
 Eu sou **Tainara Santos** 🚀  
 
-💻 Atualmente no **2º semestre** de Técnico em Desenvolvimento de Sistemas  
-📚 Cursando **Desenvolvimento de Software Multiplataforma** (1º semestre)  
-🌟 Seguindo a **Trilha de Front-end** na Upper | FDEVS  
+💻 Atualmente no **3º semestre** de Técnico em Desenvolvimento de Sistemas  
+📚 Cursando **Desenvolvimento de Software Multiplataforma** (**2º semestre**)  
 💡 Focada em aprender e amando cada novidade no mundo da tecnologia  
 
 ---
@@ -26,31 +25,4 @@ Eu sou **Tainara Santos** 🚀
 
 ---
 
-## 📊 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=tainara-vitsantos&show_icons=true&theme=tokyonight)  
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=tainara-vitsantos&layout=compact&theme=tokyonight)
-
----
-
-## 📈 Visitantes
-![Contador de visitas](https://komarev.com/ghpvc/?username=tainara-vitsantos&color=blue)
-
----
-
-> “Cada linha de código é um passo rumo a algo incrível.” ✨
-## Hi there 👋
-
-<!--
-**tainara-vitsantos/tainara-vitsantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> “Construindo meu futuro com linhas de código.”
